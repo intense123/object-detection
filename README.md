@@ -19,7 +19,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/intense123/yolov8-object-detector.git
+git clone https://github.com/intense123/object-detection.git
 cd yolov8-object-detector
 
 
