@@ -1,5 +1,3 @@
-# Sure, here's a template for a GitHub README for your YOLOv8 object detection project:
-
 YOLOv8 Object Detector
 
 This project implements an object detection system using YOLOv8 (You Only Look Once version 8) architecture. The system is capable of detecting multiple objects in images and videos, providing bounding box coordinates and class labels.
